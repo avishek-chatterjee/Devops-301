@@ -1,4 +1,4 @@
-# Python App - CICD, Listen to port 9090, Dockerizing -38080
+# Python App - CICD, Listen to port 9090, Dockerizing  -38080
 
 Create CI/CD Pipeline for Web Application Deployment.
 
